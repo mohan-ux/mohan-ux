@@ -129,9 +129,6 @@ const mohan = {
 ### 📊 Activity Graph
 [![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan-ux&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohan-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -158,13 +155,6 @@ const mohan = {
 ## 🎵 Spotify Playing
 [![Spotify](https://github-readme-spotify-murex.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
----
-
-## 💰 Support My Work
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohanbabu)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohanbabu2502)
 
 ---
 
