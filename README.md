@@ -47,7 +47,6 @@ const mohan = {
         backEnd: {
             python: ["FastAPI", "Django", "Flask"],
             js: ["Node.js", "Express.js"],
-            java: ["Spring Boot"]
         },
         devOps: ["AWS", "Docker", "Kubernetes", "Terraform", "Ansible"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
