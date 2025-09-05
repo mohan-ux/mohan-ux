@@ -4,7 +4,7 @@
   
 ### 🚀 Full Stack Developer | DevOps Engineer | Cloud Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+AI+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Engineer;AI+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
