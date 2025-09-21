@@ -42,10 +42,9 @@ const mohan = {
     technologies: {
         frontEnd: {
             js: ["React", "Redux", "Next.js"],
-            css: ["TailwindCSS", "Bootstrap", "Styled Components"]
+            css: ["TailwindCSS", "Styled Components"]
         },
         backEnd: {
-            python: ["FastAPI", "Django", "Flask"],
             js: ["Node.js", "Express.js"],
         },
         devOps: ["AWS", "Docker", "Kubernetes", "Terraform", "Ansible"],
